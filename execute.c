@@ -14,7 +14,7 @@ int execution(char *content, stack_t **stack, unsigned int counter, FILE *file)
 			{"pop", fun_pop},
 			{"swap", fun_swaps},
 			{"add", fun_addition},
-			{"nopro", fun_no_program},
+			{"nop", fun_no_program},
 			{"sub", fun_sub},
 			{"div", fun_divi},
 			{"mul", fun_mult},
