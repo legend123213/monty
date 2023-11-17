@@ -78,7 +78,7 @@ void fun_pop(stack_t **head, unsigned int counter);
 void fun_swaps(stack_t **head, unsigned int counter);
 void fun_addition(stack_t **head, unsigned int counter);
 void fun_no_program(stack_t **head, unsigned int c);
-void fun_subs(stack_t **head, unsigned int counter);
+void fun_sub(stack_t **head, unsigned int counter);
 void fun_divi(stack_t **head, unsigned int c);
 void fun_mult(stack_t **head, unsigned int counter);
 void fun_modu(stack_t **head, unsigned int c);

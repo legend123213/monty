@@ -1,12 +1,12 @@
 #include "monty.h"
 
 /**
-*fun_subs- a function that serves as subtration
+*fun_sub- a function that serves as subtration
 *@head: stack head
 *@c: line_number
 *Return: nothing
 */
-void fun_subs(stack_t **head, unsigned int c)
+void fun_sub(stack_t **head, unsigned int c)
 {
 		stack_t *aux;
 
