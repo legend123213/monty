@@ -78,10 +78,12 @@ void fun_pop(stack_t **head, unsigned int counter);
 void fun_swaps(stack_t **head, unsigned int counter);
 void fun_addition(stack_t **head, unsigned int counter);
 void fun_no_program(stack_t **head, unsigned int c);
+/* MATH	 FUNCTIONS */
 void fun_sub(stack_t **head, unsigned int counter);
 void fun_divi(stack_t **head, unsigned int c);
 void fun_mult(stack_t **head, unsigned int counter);
 void fun_modu(stack_t **head, unsigned int c);
+/* OPCODE FUNCTIONS */
 void fun_print_char(stack_t **head, unsigned int counter);
 void fun_print_string(stack_t **head, unsigned int counter);
 void fun_rotate_s(stack_t **head, unsigned int counter);
